@@ -147,7 +147,7 @@ const addList = appName => {
 
     const buttonNode = document.createElement("button");
     buttonNode.classList = "btn btn-danger";
-    const buttonTextNode = document.createTextNode("Sil");
+    const buttonTextNode = document.createTextNode("Remove");
     buttonNode.setAttribute("onclick", `removeAppOfSelectedList(this)`)
     buttonNode.appendChild(buttonTextNode);
 
