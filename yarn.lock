@@ -1319,7 +1319,7 @@
     "minimist" "^1.2.0"
     "plist" "^3.0.1"
 
-"electron-packager@^15.4.0":
+"electron-packager@^15.4.0", "electron-packager@^15.5.1":
   "integrity" "sha512-9/fqF64GACZsLYLuFJ8vCqItMXbvsD0NMDLNfFmAv9mSqkqKWSZb5V3VE9CxT6CeXwZ6wN3YowEQuqBNyShEVg=="
   "resolved" "https://registry.npmjs.org/electron-packager/-/electron-packager-15.5.1.tgz"
   "version" "15.5.1"

@@ -136,7 +136,7 @@ var addList = function (appName) {
     node.appendChild(textnode);
     var buttonNode = document.createElement("button");
     buttonNode.classList = "btn btn-danger";
-    var buttonTextNode = document.createTextNode("Sil");
+    var buttonTextNode = document.createTextNode("Remove");
     buttonNode.setAttribute("onclick", "removeAppOfSelectedList(this)");
     buttonNode.appendChild(buttonTextNode);
     node.appendChild(buttonNode);
