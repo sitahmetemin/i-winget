@@ -13,4 +13,4 @@ npm start
 ```
 
 ### Simple Usage
-<!-- ![alt](https://git) -->
+![alt text](src/assets/img/ss.png?raw=true)
